@@ -30,7 +30,7 @@ You must clearly display and communicate to users that this is an SMO Server and
 ## Requirements
 
 - Windows 7 or later
-- Make sure the configured server port (default: 27825) is open in your firewall
+- Make sure the configured server port (default: 2271 and 2272) is open in your firewall
 
 ## Disclaimer
 
